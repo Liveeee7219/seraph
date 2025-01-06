@@ -1,1 +1,1 @@
-<!h1>A game repository<h1>
+<h1>A game repository</h1>
